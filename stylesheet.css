@@ -1,0 +1,11 @@
+.nyang-walk-slot {
+    min-width: 4.5em;
+}
+
+.nyang-walk-cat {
+    font-size: 1.05em;
+    font-weight: 700;
+    color: #f6c76f;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.45);
+    padding: 0 4px 2px 4px;
+}
