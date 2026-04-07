@@ -1,8 +1,8 @@
 {
-  "uuid": "nyang-walk@luke",
+  "uuid": "nyang-walk@com-nyang",
   "name": "Nyang Walk",
-  "description": "A cat strolls beside the top bar clock.",
+  "description": "A cat strolls across your top bar, dodging panel icons and occasionally sitting down for a nap.",
   "shell-version": ["44", "45", "46", "47", "48", "49"],
   "version": 1,
-  "url": "https://example.com/nyang-walk"
+  "url": "https://github.com/com-nyang/nyang-shell"
 }

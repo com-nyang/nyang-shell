@@ -32,7 +32,7 @@ Nyang Walk adds a small animated cat to your GNOME Shell panel. It walks left an
 
 ```bash
 # Clone or download this repo, then:
-cp -r . ~/.local/share/gnome-shell/extensions/nyang-walk@luke
+cp -r . ~/.local/share/gnome-shell/extensions/nyang-walk@com-nyang
 ```
 
 **Restart GNOME Shell:**
@@ -45,7 +45,7 @@ cp -r . ~/.local/share/gnome-shell/extensions/nyang-walk@luke
 **Enable the extension:**
 
 ```bash
-gnome-extensions enable nyang-walk@luke
+gnome-extensions enable nyang-walk@com-nyang
 ```
 
 Or use the **Extensions** app / GNOME Extensions website toggle.
@@ -55,8 +55,8 @@ Or use the **Extensions** app / GNOME Extensions website toggle.
 ## Uninstall
 
 ```bash
-gnome-extensions disable nyang-walk@luke
-rm -rf ~/.local/share/gnome-shell/extensions/nyang-walk@luke
+gnome-extensions disable nyang-walk@com-nyang
+rm -rf ~/.local/share/gnome-shell/extensions/nyang-walk@com-nyang
 ```
 
 ---
@@ -73,7 +73,7 @@ rm -rf ~/.local/share/gnome-shell/extensions/nyang-walk@luke
 ## Files
 
 ```
-nyang-walk@luke/
+nyang-walk@com-nyang/
 ├── extension.js     — animation loop, panel-aware collision avoidance
 ├── metadata.json    — GNOME extension manifest
 └── stylesheet.css   — font size, color, and glow styling
