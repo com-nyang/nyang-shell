@@ -4,6 +4,7 @@
 
 ```
 ᓚᘏᗢ₎₎  ···  (=^◡ω◡^=)  ···  ₍₍ᓚᘏᗢ
+[=]ᓚᘏᗢ₎₎[===]  ···  [==]ᓚᘏᗢ[======]  ···  [=====]₍₍ᓚᘏᗢ[=]
 ```
 
 [![GNOME Extensions](https://img.shields.io/badge/GNOME%20Extensions-9664-blue?logo=gnome&logoColor=white)](https://extensions.gnome.org/extension/9664/nyang-walk/)
