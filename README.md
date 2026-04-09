@@ -34,6 +34,8 @@ gnome-extensions enable nyang-walk@com-nyang
 
 Nyang Walk puts a small animated cat on your GNOME Shell panel. It walks left and right, automatically detecting and jumping over any panel applets — clock, system tray, app indicators — so it never overlaps them. Every once in a while it stops, sits down, idles, then gets back up and keeps walking.
 
+If Docker or Kubernetes is running, extra cats join the walk — one per running container, one per running pod. The more your system is doing, the busier the top bar gets.
+
 | State    | Frames |
 |----------|--------|
 | Walking  | `ᓚᘏᗢ` `₍ᓚᘏᗢ` `₍₍ᓚᘏᗢ` |
